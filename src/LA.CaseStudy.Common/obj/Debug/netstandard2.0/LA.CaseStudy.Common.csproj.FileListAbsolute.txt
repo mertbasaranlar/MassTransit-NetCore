@@ -1,0 +1,8 @@
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Common/bin/Debug/netstandard2.0/LA.CaseStudy.Common.deps.json
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Common/bin/Debug/netstandard2.0/LA.CaseStudy.Common.dll
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Common/bin/Debug/netstandard2.0/LA.CaseStudy.Common.pdb
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Common/obj/Debug/netstandard2.0/LA.CaseStudy.Common.csproj.CoreCompileInputs.cache
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Common/obj/Debug/netstandard2.0/LA.CaseStudy.Common.AssemblyInfoInputs.cache
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Common/obj/Debug/netstandard2.0/LA.CaseStudy.Common.AssemblyInfo.cs
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Common/obj/Debug/netstandard2.0/LA.CaseStudy.Common.dll
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Common/obj/Debug/netstandard2.0/LA.CaseStudy.Common.pdb

@@ -1,0 +1,12 @@
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/bin/Debug/netcoreapp2.0/LA.CaseStudy.Api.deps.json
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/bin/Debug/netcoreapp2.0/LA.CaseStudy.Api.runtimeconfig.json
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/bin/Debug/netcoreapp2.0/LA.CaseStudy.Api.runtimeconfig.dev.json
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/bin/Debug/netcoreapp2.0/LA.CaseStudy.Api.dll
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/bin/Debug/netcoreapp2.0/LA.CaseStudy.Api.pdb
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/bin/Debug/netcoreapp2.0/LA.CaseStudy.Common.dll
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/bin/Debug/netcoreapp2.0/LA.CaseStudy.Common.pdb
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/obj/Debug/netcoreapp2.0/LA.CaseStudy.Api.csproj.CoreCompileInputs.cache
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/obj/Debug/netcoreapp2.0/LA.CaseStudy.Api.AssemblyInfoInputs.cache
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/obj/Debug/netcoreapp2.0/LA.CaseStudy.Api.AssemblyInfo.cs
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/obj/Debug/netcoreapp2.0/LA.CaseStudy.Api.dll
+/Users/mert/Projects/LA.CaseStudy/src/LA.CaseStudy.Api/obj/Debug/netcoreapp2.0/LA.CaseStudy.Api.pdb
